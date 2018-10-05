@@ -2,3 +2,4 @@ Cold and dry, but everything is my favorite color.
 The two Moons might be a problem for Wolfman. 
 Add concerns about effects of Mars' moons on Wolfman.
 But the Mummy will appreciate the lack of humidity.
+I have added new text to your file.
